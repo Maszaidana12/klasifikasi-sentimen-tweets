@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+scikit-learn
+joblib
+matplotlib
+wordcloud
+Sastrawi
+torch
+transformers
+datasets
+streamlit-option-menu
+matplotlib
+openpyxl

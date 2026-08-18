@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*/__pycache__/
+*.pyc
+
+# IndoBERTweet lokal
+model/indobertweet_datasetneww/
+
+# Environment / secrets
+.env
+.streamlit/secrets.toml
