@@ -12,7 +12,4 @@ torch
 transformers
 datasets
 streamlit-option-menu
-matplotlib
-openpyxl
-hashlib
 sastrapy
